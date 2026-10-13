@@ -1,0 +1,40 @@
+{
+  "abi@gmail.com": {
+    "_id": "user_1",
+    "email": "abi@gmail.com",
+    "username": "abi",
+    "password": "b'$2b$12$kJXdOJnRYWzAucz5/cBi2OMbZUSrGiGVPK/2ZXQpiclCmWc.1yQr.'",
+    "createdAt": "2026-10-13T05:28:12.594385+00:00",
+    "skill_level": "Beginner",
+    "problems_solved": 0,
+    "streak": 0,
+    "learning_style": "Balanced",
+    "assessment_taken": false,
+    "predicted_level": null,
+    "roadmap": [],
+    "login_dates": [
+      "2026-10-13"
+    ],
+    "login_streak_days": 1,
+    "pomodoro_count": 0,
+    "quiz_score": null,
+    "quiz_total": null,
+    "quiz_percentage": null,
+    "last_assessment_date": null,
+    "current_streak": 1,
+    "longest_streak": 1,
+    "last_streak_activity": "2026-10-13T05:28:26.896424+00:00",
+    "total_active_days": 1,
+    "last_activity_type": "login",
+    "streak_history": [
+      {
+        "date": "2026-10-13",
+        "streak": 1,
+        "activity_type": "login",
+        "timestamp": "2026-10-13T05:28:26.896424+00:00"
+      }
+    ],
+    "streak_updated_at": "2026-10-13T05:28:26.896424+00:00",
+    "last_login_at": "2026-10-13T05:28:33.097340+00:00"
+  }
+}
